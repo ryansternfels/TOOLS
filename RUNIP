@@ -1,0 +1,9 @@
+#Instant IP Info Lookup
+#Author: Ryan Sternfels
+
+#Curl a given IP and add it to Master_IP_Data_List.txt
+curl -s http://ipinfo.io/$1 >> Master_IP_Data_List.txt
+
+#END
+
+#PS Thanks for downloading :) I'm a young professional trying to break into the realm of cybersecurity, so this means a lot!
