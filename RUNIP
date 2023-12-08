@@ -6,4 +6,4 @@ curl -s http://ipinfo.io/$1 >> Master_IP_Data_List.txt
 
 #END
 
-#PS Thanks for downloading :) I'm a young professional trying to break into the realm of cybersecurity, so this means a lot!
+#PS Thanks for stopping by! :) I'm a young professional trying to break into the realm of cybersecurity, so this means a lot!
